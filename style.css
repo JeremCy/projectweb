@@ -1,6 +1,7 @@
 body, html {
 	height: 100%;
 	font-family: "Inconsolata", sans-serif;
+	color: antiquewhite;
 }
   
   .bgimg {
@@ -14,6 +15,9 @@ body, html {
 	display: none;
   }
 .w3-sand {
-	background-image: url("abstract-antique-backdrop-background-164005.jpg");
+	background-image: url("close-up-of-wooden-plank-326311.jpg");
 	background-repeat: repeat;
+}
+div {
+	color: aliceblue;
 }
