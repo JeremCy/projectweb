@@ -13,10 +13,4 @@ function openMenu(evt, menuName) {
     evt.currentTarget.firstElementChild.className += " w3-dark-grey";
     document.getElementById("myLink").click();
   }
-  $("mylink").onclick(function(){
-    openMenu(event, 'Eat');
-  }
-  $("w3-col s6 tablink").onclick(function(){
-    openMenu(event, 'Drink');
-  }
-  )}
+}
